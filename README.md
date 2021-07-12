@@ -3,12 +3,14 @@
 - Progressive Web App
 - ESlint
 - Prettier
-- Bootstrap
+- Bootstrap 5
 
 ## Requirements
 
 - NodeJS 14++
 - Yarn 1.22++
+- [Prettier - Visual Code Extension](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [ESlint - Visual Code Extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
 ## How to use
 
