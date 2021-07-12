@@ -5,20 +5,22 @@
 - Prettier
 - Bootstrap
 
+## Requirements
+
+- NodeJS 14++
+- Yarn 1.22++
+
 ## How to use
 
 Development
 
 ```bash
 yarn run dev
-# or
-npm run dev
 ```
 
 Build and Running Production
 
 ```bash
-yarn run build && yarn run start
-# or
-npm run build && npm run start
+yarn run build
+yarn run start
 ```
